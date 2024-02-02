@@ -1,0 +1,22 @@
+{
+  "1": {
+    "name": "book1",
+    "price": 500.0,
+    "brand": "springer"
+  },
+  "2": {
+    "name": "book2",
+    "price": 600.0,
+    "brand": "springer"
+  },
+  "3": {
+    "name": "book3",
+    "price": 700.0,
+    "brand": "Penguin Random House"
+  },
+  "4": {
+    "name": "book4",
+    "price": 800.0,
+    "brand": "Scholastic"
+  }
+}
